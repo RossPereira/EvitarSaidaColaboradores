@@ -12,6 +12,14 @@
 * Seaborn
 * MatPlotLib
 
+# Técnicas de Machine Learning:
+
+* Algoritmos de Classificação (Random Forest, Logistic Regression, KNN, Árvores de decisão e Naive Bayes)
+* Divisão de dados: Cross-Validation e Holdout
+* Pipelines
+* Tunning de Hiperparâmetros: RandomSearch
+* Seleção de Features: Versão adaptada de SelecKBest
+
 # Construção:
 
 Foram levantadas algumas hipóteses junto ao time de negócios para entendermos melhor o evento a ser modelado, os dados necessários então foram reunidos, após o levantamento dos dados foram feitas as análises descritivas e estatísticas.

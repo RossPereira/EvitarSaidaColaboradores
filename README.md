@@ -15,6 +15,7 @@
 # Técnicas de Machine Learning:
 
 * Algoritmos de Classificação (Random Forest, Logistic Regression, KNN, Árvores de decisão e Naive Bayes)
+* Tipo de Aprendizagem: Supervisionada
 * Divisão de dados: Cross-Validation e Holdout
 * Pipelines
 * Tunning de Hiperparâmetros: RandomSearch
